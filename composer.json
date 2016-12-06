@@ -1,0 +1,6 @@
+{
+    "require": {
+        "authy/php": "2.*",
+        "guzzlehttp/guzzle": "5.0"
+    }
+}
